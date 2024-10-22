@@ -1,0 +1,4 @@
+# https://github.com/github/gitignore: A collection of useful .gitignore templates
+
+# Ignore all .txt files
+*.txt
